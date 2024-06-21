@@ -1,0 +1,9 @@
+[package]
+name = "Div_str"
+version = "0.1.0"
+edition = "2021"
+
+[build]
+target = ["armv8-a+simd"]
+
+[dependencies]
